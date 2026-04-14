@@ -1124,6 +1124,7 @@ footer {
     .menu1 {
         position: static;
         display: flex;
+        z-index: 0;
         flex-direction: row;
         min-height: 55rem;
         justify-content: space-between;
